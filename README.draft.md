@@ -30,11 +30,22 @@
 
 ## 第三方工具
 
+### 工具
+
 - [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/):Firefox 扩展，用到了 typst 作为内容输出格式支持 ， Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
 - [typst-bot](https://github.com/mattfbacon/typst-bot):discord 机器人，支持 typst 渲染 ,A discord bot to render Typst code
 - [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): typ 文件格式化工具，An in development Typst formatter (PR welcomed)
 - [typst-live](https://github.com/ItsEthra/typst-live): 基于浏览器的 PDF 自动刷新工具,Hot reloading of pdf in web browser
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Pandoc 集成 ，Typst custom reader and writer for Pandoc
+
+### 编辑器
+
+- [Drafts](https://github.com/limads/drafts): Typst 的编辑器(WIP),Drafts is an editor for technical writing that leverages the Typst typesetting system.
+- [typster](https://github.com/wflixu/typster): Tauri 编写的 typst 阅读和编辑器,typst reader and editor
+
+## 编程
+- [typst-egui](https://github.com/mattfbacon/typst-egui): 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
+- [typst-py](https://github.com/messense/typst-py): Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 
 ## 编辑器集成插件
 
@@ -74,16 +85,24 @@
 
 - [typst/templates](https://github.com/typst/templates): 官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用
 
-### 通用
+### 通用(论文)
 
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): IEEE 论文的模板，A template to write IEEE Papers in Typst
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): 编写简单论文的模板，A template useful for writing simple thesis in Typst
-
+- [HUST-typst-template](https://github.com/werifu/HUST-typst-template): 用于华科毕业设计（本科）的 typst 模板。
+- [SimplePaper](https://github.com/1bitbool/SimplePaper): SimplePaper 是 Typst 的模版，用于生成简单的论文。
 - [typst-templates](https://github.com/eigenein/typst-templates): 个人编写的模板，Templates for Typst
 - [typst-templates](https://github.com/haxibami/typst-template): 个人编写的模板，My typst templates
 - [typstry](https://github.com/qjcg/typstry): 个人编写的模板，A Tapestry of Typst Templates & Examples
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template): MLA 第九版模板，An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts):类似游戏 cheat sheet, Writable Game Master Screen Inserts
+
+- [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): 简单的论文模板 ,This template defines a frontpage with a centered title and author informations, and an optional logo.
+
+### 笔记
+- [vex-typst-notebook](https://github.com/frosty884/vex-typst-notebook): Vex 机器人比赛工程笔记模板 ,This repository contains an open source VEX Robotics notebook template for use with the Typst note-taking app.
+- [typst-notebook](https://github.com/Fr4nk1in-USTC/typst-notebook): 简单的笔记模板 ,A simple template for taking notes in Typst.
+
 
 ### 任务/工作/作业
 
@@ -101,6 +120,7 @@
 - [simplecv](https://github.com/LaurenzV/simplecv): 一份简单的简历模板,SimpleCV is a simple and elegant CV template written in Typst
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template): 好像是模板作者自己的简历,Chi CV Template (For Typst)
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template): 一份简历模板，Aesthetic style inspired by the Awesome-CV project
+- [vercanard](https://github.com/elegaanz/vercanard): 一份彩色的简历模板,A colorful resume template for Typst.
 
 ### 学术海报
 
@@ -131,6 +151,7 @@
 
 ### 数学
 
+- [Formal-Methods-Typst](https://github.com/txtxj/Formal-Methods-Typst): 用于书写形式化中数理逻辑证明题
 - [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd):交换图/交换图表库， A library for creating commutative diagrams
 - [typst-theorems](https://github.com/sahasatvik/typst-theorems): 一个辅助编号的库,A library for creating numbered theorem environments
 - [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): `undergradmath` Typst 移植,A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
@@ -141,6 +162,7 @@
 
 ### 杂项
 
+- [typst-truthtable](https://github.com/PgBiel/typst-truthtable): 生成真值表的库 , A library for generating truth tables
 - [typst-raytracer](https://github.com/SeniorMars/typst-raytracer): raytracer in typst
 
 
