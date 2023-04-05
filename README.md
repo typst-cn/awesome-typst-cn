@@ -30,14 +30,14 @@
         - [任务/工作/作业](#%E4%BB%BB%E5%8A%A1/%E5%B7%A5%E4%BD%9C/%E4%BD%9C%E4%B8%9A)
         - [简历](#%E7%AE%80%E5%8E%86)
         - [学术海报](#%E5%AD%A6%E6%9C%AF%E6%B5%B7%E6%8A%A5)
+        - [演示文稿](#%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF)
     - [库和工具类](#%E5%BA%93%E5%92%8C%E5%B7%A5%E5%85%B7%E7%B1%BB)
         - [格式工具](#%E6%A0%BC%E5%BC%8F%E5%B7%A5%E5%85%B7)
+        - [图形/色彩](#%E5%9B%BE%E5%BD%A2/%E8%89%B2%E5%BD%A9)
         - [语言/文本](#%E8%AF%AD%E8%A8%80/%E6%96%87%E6%9C%AC)
         - [数学](#%E6%95%B0%E5%AD%A6)
         - [物理](#%E7%89%A9%E7%90%86)
-        - [做图](#%E5%81%9A%E5%9B%BE)
         - [杂项](#%E6%9D%82%E9%A1%B9)
-        - [演示文稿](#%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF)
 
 ## 官方项目链接
 
@@ -106,8 +106,8 @@
 ### 通用
 
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): IEEE 论文的模板，A template to write IEEE Papers in Typst
-- [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): A template useful for writing simple thesis in Typst
-- [typst-palette](https://github.com/kaarmu/typst-palette): A package of color palettes for Typst
+- [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): 编写简单论文的模板，A template useful for writing simple thesis in Typst
+
 - [typst-templates](https://github.com/eigenein/typst-templates): Templates for Typst
 - [typst-templates](https://github.com/haxibami/typst-template): My typst templates
 - [typstry](https://github.com/qjcg/typstry): A Tapestry of Typst Templates & Examples
@@ -133,7 +133,11 @@
 
 ### 学术海报
 
-- [typst-poster](https://github.com/pncnmnp/typst-poster): An academic poster template
+- [typst-poster](https://github.com/pncnmnp/typst-poster): 一份学术海报模板,An academic poster template
+
+### 演示文稿
+
+- [typst-slides](https://github.com/andreasKroepelin/typst-slides): 创建演示文稿的模板,A template for creating slides in Typst
 
 
 ## 库和工具类
@@ -142,6 +146,11 @@
 
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
 - [typst-boxes](https://github.com/lkoehl/typst-boxes): A library to draw colorful boxes.
+
+### 图形/色彩
+
+- [typst-palette](https://github.com/kaarmu/typst-palette): 调色板工具包,A package of color palettes for Typst
+- [typst-plot](https://github.com/johannes-wolf/typst-plot): A library for plotting line charts
 
 ### 语言/文本
 
@@ -158,15 +167,8 @@
 
 - [physics](https://github.com/Leedehai/typst-physics): A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
 
-### 做图
-
-- [typst-plot](https://github.com/johannes-wolf/typst-plot): A library for plotting line charts
-
-
 ### 杂项
 
 - [typst-raytracer](https://github.com/SeniorMars/typst-raytracer): raytracer in typst
 
-### 演示文稿
 
-- [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
