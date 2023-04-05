@@ -59,43 +59,43 @@
 
 ## 第三方工具
 
-- [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/): Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
-- [typst-bot](https://github.com/mattfbacon/typst-bot): A discord bot to render Typst code
-- [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed)
-- [typst-live](https://github.com/ItsEthra/typst-live): Hot reloading of pdf in web browser
-- [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
+- [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/):Firefox 扩展，用到了 typst 作为内容输出格式支持 ， Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
+- [typst-bot](https://github.com/mattfbacon/typst-bot):discord 机器人，支持 typst 渲染 ,A discord bot to render Typst code
+- [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): typ 文件格式化工具，An in development Typst formatter (PR welcomed)
+- [typst-live](https://github.com/ItsEthra/typst-live): 基于浏览器的 PDF 自动刷新工具,Hot reloading of pdf in web browser
+- [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Pandoc 集成 ，Typst custom reader and writer for Pandoc
 
 ## 编辑器集成插件
 
 ### 通用
 
-- [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst): A tree-sitter grammar with a focus on correctness.
-- [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst): A TreeSitter parser for the Typst File Format
+- [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst):TreeSitter 插件, A tree-sitter grammar with a focus on correctness.
+- [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst):TreeSitter 插件， A TreeSitter parser for the Typst File Format
 
 ### Emacs
 
-- [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el): An Emacs major mode for the `typst` markup-based typesetting system
+- [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el): Emacs 插件,An Emacs major mode for the `typst` markup-based typesetting system
 
 ### 语言服务(Language Servers)
 
-- [typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new language server for Typst, plus a VS Code extension
+- [typst-lsp](https://github.com/nvarner/typst-lsp): typst  lsp， rust 编写，A brand-new language server for Typst, plus a VS Code extension
 
 ### Obsidian
 
-- [obsidian-typst](https://github.com/fenjalien/obsidian-typst): Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+- [obsidian-typst](https://github.com/fenjalien/obsidian-typst): obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
 
 ### Vim
 
-- [typst.nvim](https://github.com/SeniorMars/typst.nvim): WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
-- [typst.vim](https://github.com/kaarmu/typst.vim): Vim plugin for Typst
+- [typst.nvim](https://github.com/SeniorMars/typst.nvim): nvim 插件, WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
+- [typst.vim](https://github.com/kaarmu/typst.vim): Vim 插件,Vim plugin for Typst
 
 ### VSCode
 
-- [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp)
+- [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp) ,VSCode 插件
 
 ### GitHub Actions
 
-- [typst-action](https://github.com/lvignoli/typst-action): Build Typst documents using GitHub actions
+- [typst-action](https://github.com/lvignoli/typst-action): Github Action 支持,Build Typst documents using GitHub actions
 
 ## 模板
 
@@ -108,28 +108,28 @@
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): IEEE 论文的模板，A template to write IEEE Papers in Typst
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): 编写简单论文的模板，A template useful for writing simple thesis in Typst
 
-- [typst-templates](https://github.com/eigenein/typst-templates): Templates for Typst
-- [typst-templates](https://github.com/haxibami/typst-template): My typst templates
-- [typstry](https://github.com/qjcg/typstry): A Tapestry of Typst Templates & Examples
-- [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template): An MLA 9th edition template
-- [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts): Writable Game Master Screen Inserts
+- [typst-templates](https://github.com/eigenein/typst-templates): 个人编写的模板，Templates for Typst
+- [typst-templates](https://github.com/haxibami/typst-template): 个人编写的模板，My typst templates
+- [typstry](https://github.com/qjcg/typstry): 个人编写的模板，A Tapestry of Typst Templates & Examples
+- [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template): MLA 第九版模板，An MLA 9th edition template
+- [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts):类似游戏 cheat sheet, Writable Game Master Screen Inserts
 
 ### 任务/工作/作业
 
-- [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): A simple assignment template
-- [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git): Yet another simple assignment template
-- [typst-homework-template](https://github.com/OriginCode/typst-homework-template): A simple homework template inspired by the LaTeX homework template by Adam Blank
-- [typst-assignment-template](https://github.com/gRox167/typst-assignment-template.git): Yet another simple assignment template with a cover and several useful math symbols.
+- [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): 简单的作业模板,A simple assignment template
+- [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git): 作业模板,Yet another simple assignment template
+- [typst-homework-template](https://github.com/OriginCode/typst-homework-template): 作业模板,A simple homework template inspired by the LaTeX homework template by Adam Blank
+- [typst-assignment-template](https://github.com/gRox167/typst-assignment-template.git): 作业模板,Yet another simple assignment template with a cover and several useful math symbols.
 
 ### 简历
 
-- [alta-typst](https://github.com/GeorgeHoneywood/alta-typst): A simple Typst CV template, inspired by AltaCV by LianTze Lim
-- [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume): A modern looking, attractive CV/Resume template by Harkunwar Kochar
-- [moderncv.typst](https://github.com/giovanniberti/moderncv.typst): A CV template inspired by LaTeX's `moderncv`
-- [resume.typ](https://github.com/wusyong/resume.typ): Simple and ergonimic template to generate resume and CV
-- [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst
-- [typst-cv-template](https://github.com/skyzh/typst-cv-template): Chi CV Template (For Typst)
-- [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project
+- [alta-typst](https://github.com/GeorgeHoneywood/alta-typst): 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
+- [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume):一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar
+- [moderncv.typst](https://github.com/giovanniberti/moderncv.typst): 参考 `moderncv` 的简历模板 ，A CV template inspired by LaTeX's `moderncv`
+- [resume.typ](https://github.com/wusyong/resume.typ): 简历模板,Simple and ergonimic template to generate resume and CV
+- [simplecv](https://github.com/LaurenzV/simplecv): 一份简单的简历模板,SimpleCV is a simple and elegant CV template written in Typst
+- [typst-cv-template](https://github.com/skyzh/typst-cv-template): 好像是模板作者自己的简历,Chi CV Template (For Typst)
+- [typst-resume-template](https://github.com/bamboovir/typst-resume-template): 一份简历模板，Aesthetic style inspired by the Awesome-CV project
 
 ### 学术海报
 
@@ -144,28 +144,29 @@
 
 ### 格式工具
 
-- [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
-- [typst-boxes](https://github.com/lkoehl/typst-boxes): A library to draw colorful boxes.
+- [typst-diagbox](https://github.com/PgBiel/typst-diagbox): 对角线分割符,A library for diagonal line dividers in Typst tables
 
 ### 图形/色彩
 
 - [typst-palette](https://github.com/kaarmu/typst-palette): 调色板工具包,A package of color palettes for Typst
-- [typst-plot](https://github.com/johannes-wolf/typst-plot): A library for plotting line charts
+- [typst-plot](https://github.com/johannes-wolf/typst-plot): 绘图库,A library for plotting line charts
+- [typst-boxes](https://github.com/lkoehl/typst-boxes): 可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.
+
 
 ### 语言/文本
 
-- [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing): A library that provides primitives for creating glossing rules according to Leipzig.
-- [typst-ipa](https://github.com/imatpot/typst-ipa): 🔄 ASCII / IPA conversion for Typst
+- [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing): 莱比锡标注系统支持库，A library that provides primitives for creating glossing rules according to Leipzig.
+- [typst-ipa](https://github.com/imatpot/typst-ipa): ASCII 码，国际音标转换,🔄 ASCII / IPA conversion for Typst
 
 ### 数学
 
-- [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd): A library for creating commutative diagrams
-- [typst-theorems](https://github.com/sahasatvik/typst-theorems): A library for creating numbered theorem environments
-- [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
+- [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd):交换图/交换图表库， A library for creating commutative diagrams
+- [typst-theorems](https://github.com/sahasatvik/typst-theorems): 一个辅助编号的库,A library for creating numbered theorem environments
+- [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): `undergradmath` Typst 移植,A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 
 ### 物理
 
-- [physics](https://github.com/Leedehai/typst-physics): A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
+- [physics](https://github.com/Leedehai/typst-physics): 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
 
 ### 杂项
 
