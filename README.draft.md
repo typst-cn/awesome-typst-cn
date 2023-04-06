@@ -46,6 +46,7 @@
 ## 编程
 - [typst-egui](https://github.com/mattfbacon/typst-egui): 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
 - [typst-py](https://github.com/messense/typst-py): Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
+- [Typst xmake](https://github.com/star-hengxing/typst-xmake): 使用 xmake 编译 typst ,实现伪热更新 , Use xmake as build system to compile typst to pdf.
 
 ## 编辑器集成插件
 
@@ -87,9 +88,12 @@
 
 ### 通用(论文)
 
+- [bupt-typst](https://github.com/QQKdeGit/bupt-typst): 北京邮电大学本科学士学位论文模板
+- [HUST-typst-template](https://github.com/werifu/HUST-typst-template): 用于华科毕业设计（本科）的 typst 模板。
+- [typst-apa7ish](https://github.com/mrwunderbar666/typst-apa7ish): APA格式第七版模板, Typst Template that (mostly) complies with APA7 Style (Work in Progress).
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): IEEE 论文的模板，A template to write IEEE Papers in Typst
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): 编写简单论文的模板，A template useful for writing simple thesis in Typst
-- [HUST-typst-template](https://github.com/werifu/HUST-typst-template): 用于华科毕业设计（本科）的 typst 模板。
+
 - [SimplePaper](https://github.com/1bitbool/SimplePaper): SimplePaper 是 Typst 的模版，用于生成简单的论文。
 - [typst-templates](https://github.com/eigenein/typst-templates): 个人编写的模板，Templates for Typst
 - [typst-templates](https://github.com/haxibami/typst-template): 个人编写的模板，My typst templates
