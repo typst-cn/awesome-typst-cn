@@ -59,7 +59,7 @@
 
 - [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el): Emacs 插件,An Emacs major mode for the `typst` markup-based typesetting system
 
-### 语言服务(Language Servers)
+### 语言服务 LSP
 
 - [typst-lsp](https://github.com/nvarner/typst-lsp): typst  lsp， rust 编写，A brand-new language server for Typst, plus a VS Code extension
 
@@ -86,7 +86,7 @@
 
 - [typst/templates](https://github.com/typst/templates): 官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用
 
-### 通用(论文)
+### 论文
 
 - [bupt-typst](https://github.com/QQKdeGit/bupt-typst): 北京邮电大学本科学士学位论文模板
 - [HUST-typst-template](https://github.com/werifu/HUST-typst-template): 用于华科毕业设计（本科）的 typst 模板。
@@ -108,7 +108,7 @@
 - [typst-notebook](https://github.com/Fr4nk1in-USTC/typst-notebook): 简单的笔记模板 ,A simple template for taking notes in Typst.
 
 
-### 任务/工作/作业
+### 任务 工作 作业
 
 - [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): 简单的作业模板,A simple assignment template
 - [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git): 作业模板,Yet another simple assignment template
@@ -141,14 +141,14 @@
 
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): 对角线分割符,A library for diagonal line dividers in Typst tables
 
-### 图形/色彩
+### 图形 色彩
 
 - [typst-palette](https://github.com/kaarmu/typst-palette): 调色板工具包,A package of color palettes for Typst
 - [typst-plot](https://github.com/johannes-wolf/typst-plot): 绘图库,A library for plotting line charts
 - [typst-boxes](https://github.com/lkoehl/typst-boxes): 可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.
 
 
-### 语言/文本
+### 语言 文本
 
 - [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing): 莱比锡标注系统支持库，A library that provides primitives for creating glossing rules according to Leipzig.
 - [typst-ipa](https://github.com/imatpot/typst-ipa): ASCII 码，国际音标转换,🔄 ASCII / IPA conversion for Typst

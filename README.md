@@ -22,23 +22,23 @@
     - [编辑器集成插件](#%E7%BC%96%E8%BE%91%E5%99%A8%E9%9B%86%E6%88%90%E6%8F%92%E4%BB%B6)
         - [通用](#%E9%80%9A%E7%94%A8)
         - [Emacs](#emacs)
-        - [语言服务(Language Servers)](#%E8%AF%AD%E8%A8%80%E6%9C%8D%E5%8A%A1(language-servers))
+        - [语言服务 LSP](#%E8%AF%AD%E8%A8%80%E6%9C%8D%E5%8A%A1-lsp)
         - [Obsidian](#obsidian)
         - [Vim](#vim)
         - [VSCode](#vscode)
         - [GitHub Actions](#github-actions)
     - [模板](#%E6%A8%A1%E6%9D%BF)
         - [官方](#%E5%AE%98%E6%96%B9)
-        - [通用(论文)](#%E9%80%9A%E7%94%A8(%E8%AE%BA%E6%96%87))
+        - [论文](#%E8%AE%BA%E6%96%87)
         - [笔记](#%E7%AC%94%E8%AE%B0)
-        - [任务/工作/作业](#%E4%BB%BB%E5%8A%A1/%E5%B7%A5%E4%BD%9C/%E4%BD%9C%E4%B8%9A)
+        - [任务 工作 作业](#%E4%BB%BB%E5%8A%A1-%E5%B7%A5%E4%BD%9C-%E4%BD%9C%E4%B8%9A)
         - [简历](#%E7%AE%80%E5%8E%86)
         - [学术海报](#%E5%AD%A6%E6%9C%AF%E6%B5%B7%E6%8A%A5)
         - [演示文稿](#%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF)
     - [库和工具类](#%E5%BA%93%E5%92%8C%E5%B7%A5%E5%85%B7%E7%B1%BB)
         - [格式工具](#%E6%A0%BC%E5%BC%8F%E5%B7%A5%E5%85%B7)
-        - [图形/色彩](#%E5%9B%BE%E5%BD%A2/%E8%89%B2%E5%BD%A9)
-        - [语言/文本](#%E8%AF%AD%E8%A8%80/%E6%96%87%E6%9C%AC)
+        - [图形 色彩](#%E5%9B%BE%E5%BD%A2-%E8%89%B2%E5%BD%A9)
+        - [语言 文本](#%E8%AF%AD%E8%A8%80-%E6%96%87%E6%9C%AC)
         - [数学](#%E6%95%B0%E5%AD%A6)
         - [物理](#%E7%89%A9%E7%90%86)
         - [杂项](#%E6%9D%82%E9%A1%B9)
@@ -92,7 +92,7 @@
 
 - [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el): Emacs 插件,An Emacs major mode for the `typst` markup-based typesetting system
 
-### 语言服务(Language Servers)
+### 语言服务 LSP
 
 - [typst-lsp](https://github.com/nvarner/typst-lsp): typst  lsp， rust 编写，A brand-new language server for Typst, plus a VS Code extension
 
@@ -119,7 +119,7 @@
 
 - [typst/templates](https://github.com/typst/templates): 官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用
 
-### 通用(论文)
+### 论文
 
 - [bupt-typst](https://github.com/QQKdeGit/bupt-typst): 北京邮电大学本科学士学位论文模板
 - [HUST-typst-template](https://github.com/werifu/HUST-typst-template): 用于华科毕业设计（本科）的 typst 模板。
@@ -141,7 +141,7 @@
 - [typst-notebook](https://github.com/Fr4nk1in-USTC/typst-notebook): 简单的笔记模板 ,A simple template for taking notes in Typst.
 
 
-### 任务/工作/作业
+### 任务 工作 作业
 
 - [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): 简单的作业模板,A simple assignment template
 - [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git): 作业模板,Yet another simple assignment template
@@ -174,14 +174,14 @@
 
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): 对角线分割符,A library for diagonal line dividers in Typst tables
 
-### 图形/色彩
+### 图形 色彩
 
 - [typst-palette](https://github.com/kaarmu/typst-palette): 调色板工具包,A package of color palettes for Typst
 - [typst-plot](https://github.com/johannes-wolf/typst-plot): 绘图库,A library for plotting line charts
 - [typst-boxes](https://github.com/lkoehl/typst-boxes): 可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.
 
 
-### 语言/文本
+### 语言 文本
 
 - [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing): 莱比锡标注系统支持库，A library that provides primitives for creating glossing rules according to Leipzig.
 - [typst-ipa](https://github.com/imatpot/typst-ipa): ASCII 码，国际音标转换,🔄 ASCII / IPA conversion for Typst
