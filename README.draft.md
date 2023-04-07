@@ -104,7 +104,7 @@
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): 简单的论文模板 ,This template defines a frontpage with a centered title and author informations, and an optional logo.
 
 ### 信件
--[typst-din-5008-letter](https://github.com/ludwig-austermann/typst-din-5008-letter): DIN 5008 标准的商务文稿模板, A template for DIN 5008 inspired typst letter. Furthermore, there is a envelope template.
+- [typst-din-5008-letter](https://github.com/ludwig-austermann/typst-din-5008-letter): DIN 5008 标准的商务文稿模板, A template for DIN 5008 inspired typst letter. Furthermore, there is a envelope template.
 
 ### 笔记
 - [vex-typst-notebook](https://github.com/frosty884/vex-typst-notebook): Vex 机器人比赛工程笔记模板 ,This repository contains an open source VEX Robotics notebook template for use with the Typst note-taking app.
@@ -165,7 +165,7 @@
 
 ### 物理
 
-- [physics](https://github.com/Leedehai/typst-physics): 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
+- [typst-physics](https://github.com/Leedehai/typst-physics): 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
 
 ### 杂项
 
