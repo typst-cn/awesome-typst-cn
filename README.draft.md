@@ -103,6 +103,9 @@
 
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): 简单的论文模板 ,This template defines a frontpage with a centered title and author informations, and an optional logo.
 
+### 信件
+-[typst-din-5008-letter](https://github.com/ludwig-austermann/typst-din-5008-letter): DIN 5008 标准的商务文稿模板, A template for DIN 5008 inspired typst letter. Furthermore, there is a envelope template.
+
 ### 笔记
 - [vex-typst-notebook](https://github.com/frosty884/vex-typst-notebook): Vex 机器人比赛工程笔记模板 ,This repository contains an open source VEX Robotics notebook template for use with the Typst note-taking app.
 - [typst-notebook](https://github.com/Fr4nk1in-USTC/typst-notebook): 简单的笔记模板 ,A simple template for taking notes in Typst.
