@@ -18,15 +18,6 @@
     - [第三方工具](#%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B7%A5%E5%85%B7)
         - [工具](#%E5%B7%A5%E5%85%B7)
         - [编辑器](#%E7%BC%96%E8%BE%91%E5%99%A8)
-    - [编程](#%E7%BC%96%E7%A8%8B)
-    - [编辑器集成插件](#%E7%BC%96%E8%BE%91%E5%99%A8%E9%9B%86%E6%88%90%E6%8F%92%E4%BB%B6)
-        - [通用](#%E9%80%9A%E7%94%A8)
-        - [Emacs](#emacs)
-        - [语言服务 LSP](#%E8%AF%AD%E8%A8%80%E6%9C%8D%E5%8A%A1-lsp)
-        - [Obsidian](#obsidian)
-        - [Vim](#vim)
-        - [VSCode](#vscode)
-        - [GitHub Actions](#github-actions)
     - [模板](#%E6%A8%A1%E6%9D%BF)
         - [官方](#%E5%AE%98%E6%96%B9)
         - [中国大学论文](#%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E8%AE%BA%E6%96%87)
@@ -44,6 +35,15 @@
         - [数学](#%E6%95%B0%E5%AD%A6)
         - [物理](#%E7%89%A9%E7%90%86)
         - [杂项](#%E6%9D%82%E9%A1%B9)
+    - [编程](#%E7%BC%96%E7%A8%8B)
+    - [编辑器集成插件](#%E7%BC%96%E8%BE%91%E5%99%A8%E9%9B%86%E6%88%90%E6%8F%92%E4%BB%B6)
+        - [通用](#%E9%80%9A%E7%94%A8)
+        - [Emacs](#emacs)
+        - [语言服务 LSP](#%E8%AF%AD%E8%A8%80%E6%9C%8D%E5%8A%A1-lsp)
+        - [Obsidian](#obsidian)
+        - [Vim](#vim)
+        - [VSCode](#vscode)
+        - [GitHub Actions](#github-actions)
 
 ## 官方项目链接
 
@@ -78,42 +78,6 @@
 - [Drafts](https://github.com/limads/drafts): Typst 的编辑器(WIP),Drafts is an editor for technical writing that leverages the Typst typesetting system.
 - [typster](https://github.com/wflixu/typster): Tauri 编写的 typst 阅读和编辑器,typst reader and editor
 
-## 编程
-- [typst-egui](https://github.com/mattfbacon/typst-egui): 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
-- [typst-py](https://github.com/messense/typst-py): Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
-- [Typst xmake](https://github.com/star-hengxing/typst-xmake): 使用 xmake 编译 typst ,实现伪热更新 , Use xmake as build system to compile typst to pdf.
-
-## 编辑器集成插件
-
-### 通用
-
-- [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst):TreeSitter 插件, A tree-sitter grammar with a focus on correctness.
-- [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst):TreeSitter 插件， A TreeSitter parser for the Typst File Format
-
-### Emacs
-
-- [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el): Emacs 插件,An Emacs major mode for the `typst` markup-based typesetting system
-
-### 语言服务 LSP
-
-- [typst-lsp](https://github.com/nvarner/typst-lsp): typst  lsp， rust 编写，A brand-new language server for Typst, plus a VS Code extension
-
-### Obsidian
-
-- [obsidian-typst](https://github.com/fenjalien/obsidian-typst): obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
-
-### Vim
-
-- [typst.nvim](https://github.com/SeniorMars/typst.nvim): nvim 插件, WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
-- [typst.vim](https://github.com/kaarmu/typst.vim): Vim 插件,Vim plugin for Typst
-
-### VSCode
-
-- [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp) ,VSCode 插件
-
-### GitHub Actions
-
-- [typst-action](https://github.com/lvignoli/typst-action): Github Action 支持,Build Typst documents using GitHub actions
 
 ## 模板
 
@@ -127,6 +91,7 @@
 - [bupt-typst](https://github.com/QQKdeGit/bupt-typst): 北京邮电大学本科学士学位论文模板
 - [HUST-typst-template](https://github.com/werifu/HUST-typst-template): 用于华科毕业设计（本科）的 typst 模板。
 - [SHU-Bachelor-Thesis-Typst](https://github.com/guttatus/SHU-Bachelor-Thesis-Typst): 上海大学本科毕业论文 typst 模板 (开发ing)
+- [CQUPTypst](https://github.com/jerrita/CQUPTypst): 一个 Typest 模板，但是大专 
 
 ### 论文
 
@@ -212,4 +177,40 @@
 - [typst-truthtable](https://github.com/PgBiel/typst-truthtable): 生成真值表的库 , A library for generating truth tables
 - [typst-raytracer](https://github.com/SeniorMars/typst-raytracer): raytracer in typst
 
+## 编程
+- [typst-egui](https://github.com/mattfbacon/typst-egui): 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
+- [typst-py](https://github.com/messense/typst-py): Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
+- [Typst xmake](https://github.com/star-hengxing/typst-xmake): 使用 xmake 编译 typst ,实现伪热更新 , Use xmake as build system to compile typst to pdf.
+
+## 编辑器集成插件
+
+### 通用
+
+- [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst):TreeSitter 插件, A tree-sitter grammar with a focus on correctness.
+- [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst):TreeSitter 插件， A TreeSitter parser for the Typst File Format
+
+### Emacs
+
+- [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el): Emacs 插件,An Emacs major mode for the `typst` markup-based typesetting system
+
+### 语言服务 LSP
+
+- [typst-lsp](https://github.com/nvarner/typst-lsp): typst  lsp， rust 编写，A brand-new language server for Typst, plus a VS Code extension
+
+### Obsidian
+
+- [obsidian-typst](https://github.com/fenjalien/obsidian-typst): obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+
+### Vim
+
+- [typst.nvim](https://github.com/SeniorMars/typst.nvim): nvim 插件, WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
+- [typst.vim](https://github.com/kaarmu/typst.vim): Vim 插件,Vim plugin for Typst
+
+### VSCode
+
+- [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp) ,VSCode 插件
+
+### GitHub Actions
+
+- [typst-action](https://github.com/lvignoli/typst-action): Github Action 支持,Build Typst documents using GitHub actions
 

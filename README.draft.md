@@ -43,42 +43,6 @@
 - [Drafts](https://github.com/limads/drafts): Typst 的编辑器(WIP),Drafts is an editor for technical writing that leverages the Typst typesetting system.
 - [typster](https://github.com/wflixu/typster): Tauri 编写的 typst 阅读和编辑器,typst reader and editor
 
-## 编程
-- [typst-egui](https://github.com/mattfbacon/typst-egui): 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
-- [typst-py](https://github.com/messense/typst-py): Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
-- [Typst xmake](https://github.com/star-hengxing/typst-xmake): 使用 xmake 编译 typst ,实现伪热更新 , Use xmake as build system to compile typst to pdf.
-
-## 编辑器集成插件
-
-### 通用
-
-- [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst):TreeSitter 插件, A tree-sitter grammar with a focus on correctness.
-- [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst):TreeSitter 插件， A TreeSitter parser for the Typst File Format
-
-### Emacs
-
-- [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el): Emacs 插件,An Emacs major mode for the `typst` markup-based typesetting system
-
-### 语言服务 LSP
-
-- [typst-lsp](https://github.com/nvarner/typst-lsp): typst  lsp， rust 编写，A brand-new language server for Typst, plus a VS Code extension
-
-### Obsidian
-
-- [obsidian-typst](https://github.com/fenjalien/obsidian-typst): obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
-
-### Vim
-
-- [typst.nvim](https://github.com/SeniorMars/typst.nvim): nvim 插件, WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
-- [typst.vim](https://github.com/kaarmu/typst.vim): Vim 插件,Vim plugin for Typst
-
-### VSCode
-
-- [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp) ,VSCode 插件
-
-### GitHub Actions
-
-- [typst-action](https://github.com/lvignoli/typst-action): Github Action 支持,Build Typst documents using GitHub actions
 
 ## 模板
 
@@ -92,6 +56,7 @@
 - [bupt-typst](https://github.com/QQKdeGit/bupt-typst): 北京邮电大学本科学士学位论文模板
 - [HUST-typst-template](https://github.com/werifu/HUST-typst-template): 用于华科毕业设计（本科）的 typst 模板。
 - [SHU-Bachelor-Thesis-Typst](https://github.com/guttatus/SHU-Bachelor-Thesis-Typst): 上海大学本科毕业论文 typst 模板 (开发ing)
+- [CQUPTypst](https://github.com/jerrita/CQUPTypst): 一个 Typest 模板，但是大专 
 
 ### 论文
 
@@ -177,4 +142,40 @@
 - [typst-truthtable](https://github.com/PgBiel/typst-truthtable): 生成真值表的库 , A library for generating truth tables
 - [typst-raytracer](https://github.com/SeniorMars/typst-raytracer): raytracer in typst
 
+## 编程
+- [typst-egui](https://github.com/mattfbacon/typst-egui): 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
+- [typst-py](https://github.com/messense/typst-py): Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
+- [Typst xmake](https://github.com/star-hengxing/typst-xmake): 使用 xmake 编译 typst ,实现伪热更新 , Use xmake as build system to compile typst to pdf.
+
+## 编辑器集成插件
+
+### 通用
+
+- [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst):TreeSitter 插件, A tree-sitter grammar with a focus on correctness.
+- [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst):TreeSitter 插件， A TreeSitter parser for the Typst File Format
+
+### Emacs
+
+- [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el): Emacs 插件,An Emacs major mode for the `typst` markup-based typesetting system
+
+### 语言服务 LSP
+
+- [typst-lsp](https://github.com/nvarner/typst-lsp): typst  lsp， rust 编写，A brand-new language server for Typst, plus a VS Code extension
+
+### Obsidian
+
+- [obsidian-typst](https://github.com/fenjalien/obsidian-typst): obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+
+### Vim
+
+- [typst.nvim](https://github.com/SeniorMars/typst.nvim): nvim 插件, WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
+- [typst.vim](https://github.com/kaarmu/typst.vim): Vim 插件,Vim plugin for Typst
+
+### VSCode
+
+- [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp) ,VSCode 插件
+
+### GitHub Actions
+
+- [typst-action](https://github.com/lvignoli/typst-action): Github Action 支持,Build Typst documents using GitHub actions
 
