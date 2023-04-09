@@ -94,11 +94,11 @@
 - [pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst): 北京大学学位论文模板,Typst template for dissertations in Peking University (PKU).
 - [bupt-typst](https://github.com/QQKdeGit/bupt-typst): 北京邮电大学本科学士学位论文模板
 - [HUST-typst-template](https://github.com/werifu/HUST-typst-template): 用于华科毕业设计（本科）的 typst 模板。
-- [typst-apa7ish](https://github.com/mrwunderbar666/
+
 
 ### 论文
 
-typst-apa7ish): APA格式第七版模板, Typst Template that (mostly) complies with APA7 Style (Work in Progress).
+- [typst-apa7ish](https://github.com/mrwunderbar666/typst-apa7ish): APA格式第七版模板, Typst Template that (mostly) complies with APA7 Style (Work in Progress).
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): IEEE 论文的模板，A template to write IEEE Papers in Typst
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): 编写简单论文的模板，A template useful for writing simple thesis in Typst
 
