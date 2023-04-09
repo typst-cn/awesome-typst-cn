@@ -29,6 +29,7 @@
         - [GitHub Actions](#github-actions)
     - [模板](#%E6%A8%A1%E6%9D%BF)
         - [官方](#%E5%AE%98%E6%96%B9)
+        - [中国大学论文](#%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E8%AE%BA%E6%96%87)
         - [论文](#%E8%AE%BA%E6%96%87)
         - [信件](#%E4%BF%A1%E4%BB%B6)
         - [笔记](#%E7%AC%94%E8%AE%B0)
@@ -120,11 +121,16 @@
 
 - [typst/templates](https://github.com/typst/templates): 官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用
 
-### 论文
+### 中国大学论文
 
+- [pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst): 北京大学学位论文模板,Typst template for dissertations in Peking University (PKU).
 - [bupt-typst](https://github.com/QQKdeGit/bupt-typst): 北京邮电大学本科学士学位论文模板
 - [HUST-typst-template](https://github.com/werifu/HUST-typst-template): 用于华科毕业设计（本科）的 typst 模板。
-- [typst-apa7ish](https://github.com/mrwunderbar666/typst-apa7ish): APA格式第七版模板, Typst Template that (mostly) complies with APA7 Style (Work in Progress).
+- [typst-apa7ish](https://github.com/mrwunderbar666/
+
+### 论文
+
+typst-apa7ish): APA格式第七版模板, Typst Template that (mostly) complies with APA7 Style (Work in Progress).
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): IEEE 论文的模板，A template to write IEEE Papers in Typst
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): 编写简单论文的模板，A template useful for writing simple thesis in Typst
 
