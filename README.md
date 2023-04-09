@@ -3,6 +3,7 @@
 列表收集了 [Typst](https://github.com/typst/typst) 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
+
 <img src="./assets/wechat-qrcode.jpg" style="height:500px"/>
 
 <!-- 目录由 https://github.com/pbzweihander/markdown-toc 工具生成 -->
