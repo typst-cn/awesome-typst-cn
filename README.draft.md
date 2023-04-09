@@ -6,6 +6,9 @@
 
 欢迎提交 PR 一起维护.
 
+微信群:
+![微信群](./assets/wechat-qrcode.jpg)
+
 <!-- 目录由 https://github.com/pbzweihander/markdown-toc 工具生成 -->
 
 <!-- markdown-toc -->
