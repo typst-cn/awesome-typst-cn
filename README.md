@@ -182,6 +182,7 @@
 
 ## 编程
 
+- [typst.ts](https://github.com/Myriad-Dreamin/typst.ts): 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
 - [inktyp](https://github.com/herlev/inktyp): Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
 - [typst-egui](https://github.com/mattfbacon/typst-egui): 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
 - [typst-py](https://github.com/messense/typst-py): Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
