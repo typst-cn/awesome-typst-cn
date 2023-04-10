@@ -32,6 +32,7 @@
 
 ### 工具
 
+- [typst-ws](https://github.com/Enter-tainer/typst-ws): Typst 实时预览工具 ,Preview your typst file in instant.
 - [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/):Firefox 扩展，用到了 typst 作为内容输出格式支持 ， Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
 - [typst-bot](https://github.com/mattfbacon/typst-bot):discord 机器人，支持 typst 渲染 ,A discord bot to render Typst code
 - [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): typ 文件格式化工具，An in development Typst formatter (PR welcomed)
@@ -90,6 +91,7 @@
 
 ### 简历
 
+- [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku): 简历模板，有多种版本，包括中文 ,This is a simple, elegant, academic style CV template for typst. Support for English and Chinese (and more).
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst): 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
 - [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume):一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar
 - [moderncv.typst](https://github.com/giovanniberti/moderncv.typst): 参考 `moderncv` 的简历模板 ，A CV template inspired by LaTeX's `moderncv`
@@ -139,10 +141,13 @@
 
 ### 杂项
 
+- [typst-algorithms](https://github.com/platformer/typst-algorithms): 用于编写算法，为代码的工具包,Typst module for writing algorithms. Use the algo function for writing pseudocode and the code function for writing codeblocks with line numbers. 
 - [typst-truthtable](https://github.com/PgBiel/typst-truthtable): 生成真值表的库 , A library for generating truth tables
 - [typst-raytracer](https://github.com/SeniorMars/typst-raytracer): raytracer in typst
 
 ## 编程
+
+- [inktyp](https://github.com/herlev/inktyp): Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
 - [typst-egui](https://github.com/mattfbacon/typst-egui): 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
 - [typst-py](https://github.com/messense/typst-py): Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 - [Typst xmake](https://github.com/star-hengxing/typst-xmake): 使用 xmake 编译 typst ,实现伪热更新 , Use xmake as build system to compile typst to pdf.
@@ -174,8 +179,9 @@
 ### VSCode
 
 - [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp) ,VSCode 插件
+- [typst-preview-vscode](https://github.com/Enter-tainer/typst-preview-vscode): VSCode Typst 预览插件, Preview your Typst files in vscode instantly
 
-### GitHub Actions
+### 其他
 
 - [typst-action](https://github.com/lvignoli/typst-action): Github Action 支持,Build Typst documents using GitHub actions
 
