@@ -29,7 +29,7 @@
         - [学术海报](#%E5%AD%A6%E6%9C%AF%E6%B5%B7%E6%8A%A5)
         - [演示文稿](#%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF)
     - [库和工具类](#%E5%BA%93%E5%92%8C%E5%B7%A5%E5%85%B7%E7%B1%BB)
-        - [格式工具](#%E6%A0%BC%E5%BC%8F%E5%B7%A5%E5%85%B7)
+        - [格式 工具](#%E6%A0%BC%E5%BC%8F-%E5%B7%A5%E5%85%B7)
         - [图形 色彩](#%E5%9B%BE%E5%BD%A2-%E8%89%B2%E5%BD%A9)
         - [语言 文本](#%E8%AF%AD%E8%A8%80-%E6%96%87%E6%9C%AC)
         - [数学](#%E6%95%B0%E5%AD%A6)
@@ -147,8 +147,9 @@
 
 ## 库和工具类
 
-### 格式工具
+### 格式 工具
 
+- [typst-tablex](https://github.com/PgBiel/typst-tablex): 表格组件, More powerful and customizable tables in Typst.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): 对角线分割符,A library for diagonal line dividers in Typst tables
 
 ### 图形 色彩

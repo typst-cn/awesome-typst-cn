@@ -112,8 +112,9 @@
 
 ## 库和工具类
 
-### 格式工具
+### 格式 工具
 
+- [typst-tablex](https://github.com/PgBiel/typst-tablex): 表格组件, More powerful and customizable tables in Typst.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): 对角线分割符,A library for diagonal line dividers in Typst tables
 
 ### 图形 色彩
