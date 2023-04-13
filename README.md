@@ -161,6 +161,7 @@
 
 ### 语言 文本
 
+- [notes.typ](https://github.com/tbug/notes.typ): 脚注，尾注,Footnotes, endnotes, notes.
 - [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing): 莱比锡标注系统支持库，A library that provides primitives for creating glossing rules according to Leipzig.
 - [typst-ipa](https://github.com/imatpot/typst-ipa): ASCII 码，国际音标转换,🔄 ASCII / IPA conversion for Typst
 
