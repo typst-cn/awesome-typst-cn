@@ -91,6 +91,7 @@
 
 ### 简历
 
+- [uniquecv-typst](https://github.com/gaoachao/uniquecv-typst): 一个使用Typst编写的简历模板，基于uniquecv。
 - [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku): 简历模板，有多种版本，包括中文 ,This is a simple, elegant, academic style CV template for typst. Support for English and Chinese (and more).
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst): 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
 - [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume):一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar
