@@ -120,6 +120,7 @@
 
 ### 图形 色彩
 
+- [typst-canvas](https://github.com/johannes-wolf/typst-canvas): Typst Canvas 库
 - [typst-palette](https://github.com/kaarmu/typst-palette): 调色板工具包,A package of color palettes for Typst
 - [typst-plot](https://github.com/johannes-wolf/typst-plot): 绘图库,A library for plotting line charts
 - [typst-boxes](https://github.com/lkoehl/typst-boxes): 可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.
