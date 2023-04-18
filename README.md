@@ -89,6 +89,7 @@
 ### 中国大学论文
 
 - [pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst): 北京大学学位论文模板,Typst template for dissertations in Peking University (PKU).
+- [BUAA-typst](https://github.com/cherichy/BUAA-typst): 北京航空航天大学学位论文模板
 - [bupt-typst](https://github.com/QQKdeGit/bupt-typst): 北京邮电大学本科学士学位论文模板
 - [HUST-typst-template](https://github.com/werifu/HUST-typst-template): 用于华科毕业设计（本科）的 typst 模板。
 - [SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst): 上海大学本科毕业论文 typst 模板 (开发ing)
