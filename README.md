@@ -191,6 +191,7 @@
 - [typst-egui](https://github.com/mattfbacon/typst-egui): 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
 - [typst-py](https://github.com/messense/typst-py): Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 - [Typst xmake](https://github.com/star-hengxing/typst-xmake): 使用 xmake 编译 typst ,实现伪热更新 , Use xmake as build system to compile typst to pdf.
+- [leetcode.typ](https://github.com/lucifer1004/leetcode.typ): 在 Typst 中刷 Leetcode 题目
 
 ## 编辑器集成插件
 
