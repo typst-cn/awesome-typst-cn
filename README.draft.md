@@ -32,7 +32,6 @@
 
 ### 工具
 
-- [typst-ws](https://github.com/Enter-tainer/typst-ws): Typst 实时预览工具 ,Preview your typst file in instant.
 - [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/):Firefox 扩展，用到了 typst 作为内容输出格式支持 ， Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
 - [typst-bot](https://github.com/mattfbacon/typst-bot):discord 机器人，支持 typst 渲染 ,A discord bot to render Typst code
 - [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): typ 文件格式化工具，An in development Typst formatter (PR welcomed)
@@ -142,8 +141,9 @@
 - [typst-theorems](https://github.com/sahasatvik/typst-theorems): 一个辅助编号的库,A library for creating numbered theorem environments
 - [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): `undergradmath` Typst 移植,A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 
-### 物理
+### 物理 化学 电学
 
+- [circuitypst](https://github.com/fenjalien/circuitypst): 移植 `circuitikz` 实现电路图形的支持 ,A port of circuitikz to Typst using typst-canvas 
 - [typst-physics](https://github.com/Leedehai/typst-physics): 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
 
 ### 杂项
@@ -154,6 +154,7 @@
 
 ## 编程
 
+- [jupyter2typst](https://github.com/dermesser/jupyter2typst): 将 `jupyter notebooks` 转换成 `typst ` 代码的工具  ，A handy tool for converting jupyter notebooks into typst code for producing PDFs.
 - [typst.ts](https://github.com/Myriad-Dreamin/typst.ts): 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
 - [inktyp](https://github.com/herlev/inktyp): Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
 - [typst-egui](https://github.com/mattfbacon/typst-egui): 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
