@@ -183,6 +183,7 @@
 
 ### 杂项
 
+- [typst-timetable](https://github.com/ludwig-austermann/typst-timetable): 时刻表模板 ,A typst template for timetables
 - [typst-algorithms](https://github.com/platformer/typst-algorithms): 用于编写算法，为代码的工具包,Typst module for writing algorithms. Use the algo function for writing pseudocode and the code function for writing codeblocks with line numbers. 
 - [typst-truthtable](https://github.com/PgBiel/typst-truthtable): 生成真值表的库 , A library for generating truth tables
 - [typst-raytracer](https://github.com/SeniorMars/typst-raytracer): raytracer in typst
