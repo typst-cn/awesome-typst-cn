@@ -152,6 +152,7 @@
 
 ### 格式 工具
 
+- [typst-index](https://github.com/RolfBremer/typst-index): 创建索引的工具库,  Automatically create a handcrafted index in typst. This typst component allows the automatic creation of an Index page with entries that have been manually marked in the document by its authors. This, in times of advanced search functionality, seems somewhat outdated, but a handcrafted index like this allows the authors to point the reader to just the right location in the document.
 - [typst-tablex](https://github.com/PgBiel/typst-tablex): 表格组件, More powerful and customizable tables in Typst.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): 对角线分割符,A library for diagonal line dividers in Typst tables
 
