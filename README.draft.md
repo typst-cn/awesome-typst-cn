@@ -103,6 +103,8 @@
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template): 好像是模板作者自己的简历,Chi CV Template (For Typst)
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template): 一份简历模板，Aesthetic style inspired by the Awesome-CV project
 - [vercanard](https://github.com/elegaanz/vercanard): 一份彩色的简历模板,A colorful resume template for Typst.
+- [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
+- [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst): 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
 
 ### 学术海报
 
