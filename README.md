@@ -180,7 +180,7 @@
 - [Formal-Methods-Typst](https://github.com/txtxj/Formal-Methods-Typst): 用于书写形式化中数理逻辑证明题
 - [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd):交换图/交换图表库， A library for creating commutative diagrams
 - [typst-theorems](https://github.com/sahasatvik/typst-theorems): 一个辅助编号的库,A library for creating numbered theorem environments
-- [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): `undergradmath` Typst 移植,A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
+- [typst-undergradmath-zh](https://github.com/AlexanderMisel/typst-undergradmath-zh): Typst大学数学，一个大学数学常用符号在Typst中如何输入的总结,A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 
 ### 物理 化学 电学
 
