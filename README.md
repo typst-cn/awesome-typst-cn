@@ -160,6 +160,7 @@
 - [typst-index](https://github.com/RolfBremer/typst-index): 创建索引的工具库,  Automatically create a handcrafted index in typst. This typst component allows the automatic creation of an Index page with entries that have been manually marked in the document by its authors. This, in times of advanced search functionality, seems somewhat outdated, but a handcrafted index like this allows the authors to point the reader to just the right location in the document.
 - [typst-tablex](https://github.com/PgBiel/typst-tablex): 表格组件, More powerful and customizable tables in Typst.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): 对角线分割符,A library for diagonal line dividers in Typst tables
+- [typst-ansi_render](https://github.com/8LWXpg/typst-ansi_render): ANSI 转义序列渲染,ANSI Escape Sequence Renderer
 
 ### 图形 色彩
 
@@ -181,6 +182,7 @@
 - [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd):交换图/交换图表库， A library for creating commutative diagrams
 - [typst-theorems](https://github.com/sahasatvik/typst-theorems): 一个辅助编号的库,A library for creating numbered theorem environments
 - [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): `undergradmath` Typst 移植,A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
+- [typst-undergradmath-zh](https://github.com/AlexanderMisel/typst-undergradmath-zh) : Typst大学数学，一个大学数学常用符号在Typst中如何输入的总结,A Typst port of undergradmath
 
 ### 物理 化学 电学
 
