@@ -62,6 +62,7 @@
 
 ### 文档
 - [Typst中文文档](https://github.com/Zuttergutao/Typstdocs-Zh-CN-): 随便翻译的Typst中文文档
+- [Typst 中文文档网站](https://typst-doc-cn.github.io/docs/): 社区驱动的非官方 Typst 中文文档网站
 
 ## 第三方工具
 
@@ -234,6 +235,7 @@
 
 - [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp) ,VSCode 插件
 - [typst-preview-vscode](https://github.com/Enter-tainer/typst-preview-vscode): VSCode Typst 预览插件, Preview your Typst files in vscode instantly
+- [typst-sympy-calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator): 基于 Typst 数学公式的科学计算器插件, 支持初等数学运算, 微积分, 矩阵运算, 解方程组, 自定义变量和函数等功能
 
 ### 其他
 
