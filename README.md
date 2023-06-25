@@ -62,6 +62,7 @@
 
 ### 文档
 - [Typst中文文档](https://github.com/Zuttergutao/Typstdocs-Zh-CN-): 随便翻译的Typst中文文档
+- [Typst 中文文档网站](https://typst-doc-cn.github.io/docs/): 社区驱动的非官方 Typst 中文文档网站
 
 ## 第三方工具
 
