@@ -113,6 +113,7 @@
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts):类似游戏 cheat sheet, Writable Game Master Screen Inserts
 
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): 简单的论文模板 ,This template defines a frontpage with a centered title and author informations, and an optional logo.
+- [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template): 非常简单的工作论文模板, Typst template for Working Paper
 
 ### 信件
 - [typst-din-5008-letter](https://github.com/ludwig-austermann/typst-din-5008-letter): DIN 5008 标准的商务文稿模板, A template for DIN 5008 inspired typst letter. Furthermore, there is a envelope template.
@@ -143,6 +144,7 @@
 - [vercanard](https://github.com/elegaanz/vercanard): 一份彩色的简历模板,A colorful resume template for Typst.
 - [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
 - [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst): 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
+- [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume): 一个无衬线字体，单列简历模板。 A CV template with Sans font inspired by LaTeX `Deedy-Resume`
 
 ### 学术海报
 
