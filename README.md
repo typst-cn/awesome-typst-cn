@@ -151,6 +151,7 @@
 ### 演示文稿
 
 - [typst-slides](https://github.com/andreasKroepelin/typst-slides): 创建演示文稿的模板,A template for creating slides in Typst
+- [typst-beamer](https://github.com/qujihan/typst-beamer): 一个简约的Beamer模板
 
 
 ## 库和工具类
