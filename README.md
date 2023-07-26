@@ -77,6 +77,7 @@
 
 - [Drafts](https://github.com/limads/drafts): Typst 的编辑器(WIP),Drafts is an editor for technical writing that leverages the Typst typesetting system.
 - [typster](https://github.com/wflixu/typster): Tauri 编写的 typst 阅读和编辑器,typst reader and editor
+- [typstudio](https://github.com/Cubxity/typstudio): A W.I.P desktop application for a new markup-based typesetting language, typst. Typstudio is built using Tauri.
 
 
 ## 模板
