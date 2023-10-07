@@ -67,6 +67,7 @@
 ### 论文
 
 - [typst-apa7ish](https://github.com/mrwunderbar666/typst-apa7ish): APA格式第七版模板, Typst Template that (mostly) complies with APA7 Style (Work in Progress).
+- [ieee-conference-typst-template](https://github.com/DawnEver/ieee-conference-typst-template) IEEE 会议论文的模版, A template to write IEEE Cnnference Papers in Typst
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): IEEE 论文的模板，A template to write IEEE Papers in Typst
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): 编写简单论文的模板，A template useful for writing simple thesis in Typst
 
